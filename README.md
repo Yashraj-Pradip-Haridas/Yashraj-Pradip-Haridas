@@ -14,7 +14,7 @@ I'm a student passionate about Web development and Data science. Welcome to my G
 ## 🛠️ Technologies & Tools
 
 - **Languages**: C,C++, Java, Python, Javascript,Dart
-- **Frameworks/Libraries**: React, Node, Pandas,
+- **Frameworks/Libraries**: React, Node, Pandas,Express
 - **Tools**: Git, Github
 - **Databases**: MySQL, MongoDB, OracleSQL
 
@@ -22,12 +22,12 @@ I'm a student passionate about Web development and Data science. Welcome to my G
 
 - **WanderLust**: This is a tourism website for hotel searching - [Link to Project]
 - **TradeX**: This is a online trading platform - [Link to Project]
-- **[Project Name 3]**: [Brief Description] - [Link to Project]
+- **Buddy chat**: This is a chatting application - [Link to Project]
 
 ## 📊 GitHub Stats
-
+<!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
+--->
 ## 🌍 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
