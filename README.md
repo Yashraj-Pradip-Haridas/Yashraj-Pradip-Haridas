@@ -29,10 +29,11 @@ I'm a student passionate about Web development and Data science. Welcome to my G
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 --->
 ## 🌍 Connect with Me
-
+<!--
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://yourwebsite.com)
+--->
+- [Portfolio](https://portfolio-gules-psi-52.vercel.app/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or chat!
 
