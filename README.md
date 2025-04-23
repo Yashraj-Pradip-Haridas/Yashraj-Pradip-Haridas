@@ -8,7 +8,7 @@ I'm a student passionate about Web development and Data science. Welcome to my G
 - 🌱 I’m currently learning MERN.
 - 👯 I’m looking to collaborate on projects related to web development or machine learning.
 - 💬 Ask me about web development
-- 📫 How to reach me: mrperfect2368@gmail.com
+- 📫 How to reach me: yashraj.haridas236@gmail.com
 - ⚡ Fun fact: I am a Basketball player.
 
 ## 🛠️ Technologies & Tools
