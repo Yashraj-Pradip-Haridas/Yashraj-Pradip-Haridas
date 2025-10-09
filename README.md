@@ -13,10 +13,10 @@ I'm a student passionate about Web development and Data science. Welcome to my G
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: C,C++, Java, Python, Javascript,Dart
-- **Frameworks/Libraries**: React, Node, Pandas,Express
+- **Languages**: C,C++, Java, Python, Javascript,Dart,Typescript
+- **Frameworks/Libraries**: React, Node, Pandas,Express,Next, Express
 - **Tools**: Git, Github
-- **Databases**: MySQL, MongoDB, OracleSQL
+- **Databases**: MySQL, MongoDB, OracleSQL,postgresql
 
 ## 🌟 Featured Projects
 
